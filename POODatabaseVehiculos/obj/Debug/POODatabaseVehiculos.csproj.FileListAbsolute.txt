@@ -1,0 +1,7 @@
+C:\Users\formacio3\source\repos\POODatabaseVehiculos\POODatabaseVehiculos\bin\Debug\POODatabaseVehiculos.exe.config
+C:\Users\formacio3\source\repos\POODatabaseVehiculos\POODatabaseVehiculos\bin\Debug\POODatabaseVehiculos.exe
+C:\Users\formacio3\source\repos\POODatabaseVehiculos\POODatabaseVehiculos\bin\Debug\POODatabaseVehiculos.pdb
+C:\Users\formacio3\source\repos\POODatabaseVehiculos\POODatabaseVehiculos\obj\Debug\POODatabaseVehiculos.csproj.AssemblyReference.cache
+C:\Users\formacio3\source\repos\POODatabaseVehiculos\POODatabaseVehiculos\obj\Debug\POODatabaseVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\formacio3\source\repos\POODatabaseVehiculos\POODatabaseVehiculos\obj\Debug\POODatabaseVehiculos.exe
+C:\Users\formacio3\source\repos\POODatabaseVehiculos\POODatabaseVehiculos\obj\Debug\POODatabaseVehiculos.pdb
