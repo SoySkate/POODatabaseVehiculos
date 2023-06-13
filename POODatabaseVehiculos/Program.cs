@@ -12,12 +12,12 @@ namespace POODatabaseVehiculos
         {
             bool menu = true;
             do {
-                Console.WriteLine("---MenuOptions---");
+                Console.WriteLine("\n---MenuOptions---Introduzca una opcion---");
                 Console.WriteLine("1.Crear Vehicuo:");
                 Console.WriteLine("2.Recoger lista Vehiculos:");
                 Console.WriteLine("3.Editar Vehiculo:");
                 Console.WriteLine("4.Eliminar Vehiculo:");
-                Console.WriteLine("5.Salir");
+                Console.WriteLine("5.Salir\n");
                 int option;
                 try { 
                  option = int.Parse(Console.ReadLine());

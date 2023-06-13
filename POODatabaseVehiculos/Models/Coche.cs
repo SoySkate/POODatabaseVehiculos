@@ -12,7 +12,7 @@ namespace POODatabaseVehiculos.Models
         private int numRuedas;
         const bool cinturones = true;
 
-        public Coche(int numRuedas):base()
+        public Coche(int numRuedas, string modelo) : base(modelo)
         {
             this.numRuedas = numRuedas;
         }

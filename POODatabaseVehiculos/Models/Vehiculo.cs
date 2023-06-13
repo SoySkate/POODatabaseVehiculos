@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace POODatabaseVehiculos.Models
 {
-    class Vehiculo 
+    public class Vehiculo 
     {
         private string modelo;//{get;set;} (Y que sea public) Es lo mismo pero más rapido supuestamente 
         private string numVIN;

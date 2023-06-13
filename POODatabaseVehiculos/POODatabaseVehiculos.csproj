@@ -50,8 +50,10 @@
     <Compile Include="Interfaces\ITerrestre.cs" />
     <Compile Include="Models\Avion.cs" />
     <Compile Include="Models\Coche.cs" />
+    <Compile Include="Models\Garage.cs" />
     <Compile Include="Models\Motor.cs" />
     <Compile Include="Models\Vehiculo.cs" />
+    <Compile Include="Models\Yate.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
